@@ -1,5 +1,5 @@
 {
-  "name": "fast-cache-study",
+  "name": "fast-cache-ablert",
   "version": "0.0.1",
   "description": "短小精悍的前端缓存项目，防止内存泄漏\r hello.ablert",
   "main": "src/index.js",
@@ -33,6 +33,7 @@
   "dependencies": {
     "html-webpack-plugin": "^3.2.0",
     "http-server": "^0.11.1",
+    "user": "0.0.0",
     "webpack-dev-server": "^3.1.14"
   }
 }
