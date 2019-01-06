@@ -4,6 +4,9 @@ hello.ablert
 
 ## 简介
 
+## 下载地址
+https://github.com/ablert952/fast-cache/releases
+
 ## 快速使用
 
 简单接入文档
