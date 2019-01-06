@@ -1,11 +1,12 @@
 {
   "name": "fast-cache-study",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "短小精悍的前端缓存项目，防止内存泄漏\r hello.ablert",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server --config ./webpack.dev.config.js --mode development"
+    "release": "webpack",
+    "example": "http-server -p 8880"
   },
   "repository": {
     "type": "git",
@@ -31,6 +32,7 @@
   },
   "dependencies": {
     "html-webpack-plugin": "^3.2.0",
+    "http-server": "^0.11.1",
     "webpack-dev-server": "^3.1.14"
   }
 }
